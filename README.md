@@ -97,11 +97,11 @@ nav a:hover {
   padding: 100px 20px;
 }
 
-.BMW X5 {https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carwale.com%2Fbmw-cars%2Fx5%2F&psig=AOvVaw1cOH-alK_esuQuHUYV4fYj&ust=1757139538143000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiDkIL9wI8DFQAAAAAdAAAAABAE
+.BMW SUV X5 {https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carwale.com%2Fbmw-cars%2Fx5%2F&psig=AOvVaw1cOH-alK_esuQuHUYV4fYj&ust=1757139538143000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiDkIL9wI8DFQAAAAAdAAAAABAE
   font-size: 3rem;
 }
 
-.hero p {
+.BMW I8 {https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stratstone.com%2Fblog%2F8-reasons-why-used-bmw-i8-is-a-supercar%2F%3Fsrsltid%3DAfmBOor8SxYA5JeZSQeXoau3WtvzJE9ccU0J7uXRqFpfr7v5iFjIfMfh&psig=AOvVaw1e2tcYWaBlyKhe4XcaIE-6&ust=1757139689556000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC6o9b9wI8DFQAAAAAdAAAAABAE
   margin-top: 10px;
   font-size: 1.2rem;
 }
