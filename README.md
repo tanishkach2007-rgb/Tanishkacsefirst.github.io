@@ -12,9 +12,9 @@
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.starkinsider.com%2F2020%2F03%2Fnew-bmw-logo-stays-true-to-todays-design-language.html&psig=AOvVaw1mMti1rzU-JO7n8WD8Cojj&ust=1757137979574000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDnoZn3wI8DFQAAAAAdAAAAABAK" alt="BMW Logo" class="logo">
     <nav>
       <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="leadership/president.html">President</a></li>
+        <li><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bmw.com%2Fen%2Findex.html&psig=AOvVaw2v9NUF8J8KBdiSELfHcEQn&ust=1757140014814000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCLvuT-wI8DFQAAAAAdAAAAABAE">Home</a></li>
+        <li><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mensxp.com%2Ffine-living%2Fauto%2F22527-10-things-about-bmw-you-must-know.html&psig=AOvVaw3lC72fZkbqgFymzBdQcJIn&ust=1757140048395000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJi59_P-wI8DFQAAAAAdAAAAABAE">About</a></li>
+        <li><a href="https://www.press.bmwgroup.com/india/article/detail/T0451239EN/mr-hardeep-singh-brar-appointed-as-president-and-chief-executive-officer-of-bmw-group-india?language=en">President</a></li>
         <li><a href="models/classics.html">Car Models</a></li>
       </ul>
     </nav>
