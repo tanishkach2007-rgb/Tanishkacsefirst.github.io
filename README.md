@@ -42,8 +42,7 @@
   </footer>
 </body>
 </html>
-  
-/* General Reset */
+  /* General Reset */
 * {
   margin: 0;
   padding: 0;
@@ -131,7 +130,7 @@ nav a:hover {
 /* Footer */
 <footer>
   <p>© 2025 BMW Website Project | Built with ❤️ by Tanishka Choudhary</p>
-  <a href="#">Instagram</a> | <a href="#">LinkedIn</a> | <a href="#">YouTube</a>
+  <a href="https://www.instagram.com/bmw/">Instagram</a> | <a href="https://www.linkedin.com/company/bmw-group/">LinkedIn</a> | <a href="https://www.youtube.com/user/BMW">YouTube</a>
 </footer>
 @media (max-width: 768px) {
   nav ul {
