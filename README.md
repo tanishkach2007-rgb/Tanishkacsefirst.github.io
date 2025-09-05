@@ -19,9 +19,6 @@
       </ul>
     </nav>
   </header>
-
-  <https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amarujala.com%2Fautomobiles%2Fbmw-s-1000-rr-and-hero-xpulse-200t-4v-bikes-are-coming-in-december-know-engine-and-price-details&psig=AOvVaw10q2r0EqVSZv2wEh3z3n7F&ust=1757138488920000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDKmJT5wI8DFQAAAAAdAAAAABAE>
-  <section class="hero">
     <h1>Welcome to BMW World</h1>
     <p>Explore BMW’s history, leadership, and legendary car models.</p>
   </section>
