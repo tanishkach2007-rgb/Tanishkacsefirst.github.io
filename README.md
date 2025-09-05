@@ -88,14 +88,14 @@ nav a:hover {
 
 /* ELECTRIC MODELS */
 .ELECTRIC {
-  background: url('<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/6645a8bb-dc76-493f-a6e4-2d3382a7b2d0" />
+  background: url('https://www.bmw.in/en/topics/Fascination-BMW/electromobility2020-new/electric-cars.html
 ') no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 100px 20px;
 }
 
-.BMW SUV X5 {https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carwale.com%2Fbmw-cars%2Fx5%2F&psig=AOvVaw1cOH-alK_esuQuHUYV4fYj&ust=1757139538143000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPiDkIL9wI8DFQAAAAAdAAAAABAE
+.BMW SUV {https://www.cardekho.com/new-bmw+suv+cars
   font-size: 3rem;
 }
 
