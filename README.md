@@ -35,8 +35,15 @@
     <p>Discover BMW classics, modern icons, and the future of electric cars.</p>
     <a href="https://www.bmw.in/en/all-models.html" class="btn">Explore Models</a>
   </section>
-  
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 BMW Website Project | Built with ❤️ by [Your Name]</p>
+  </footer>
+</body>
 </html>
+  
+
 /* General Reset */
 * {
   margin: 0;
