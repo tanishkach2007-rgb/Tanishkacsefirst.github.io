@@ -15,7 +15,7 @@
         <li><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bmw.com%2Fen%2Findex.html&psig=AOvVaw2v9NUF8J8KBdiSELfHcEQn&ust=1757140014814000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCLvuT-wI8DFQAAAAAdAAAAABAE">Home</a></li>
         <li><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mensxp.com%2Ffine-living%2Fauto%2F22527-10-things-about-bmw-you-must-know.html&psig=AOvVaw3lC72fZkbqgFymzBdQcJIn&ust=1757140048395000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJi59_P-wI8DFQAAAAAdAAAAABAE">About</a></li>
         <li><a href="https://www.press.bmwgroup.com/india/article/detail/T0451239EN/mr-hardeep-singh-brar-appointed-as-president-and-chief-executive-officer-of-bmw-group-india?language=en">President</a></li>
-        <li><a href="models/classics.html">Car Models</a></li>
+        <li><a href="https://www.bmw.in/en/all-models.html">Car Models</a></li>
       </ul>
     </nav>
   </header>
@@ -27,7 +27,7 @@
   <section class="content">
     <h2>Leadership</h2>
     <p>Meet the visionaries behind BMW’s global success.</p>
-    <a href="leadership/ceo.html" class="btn">Learn More</a>
+    <a href="https://www.bmwgroup.com/en/company/leadership-and-governance.html" class="btn">Learn More</a>
   </section>
 
   <section class="content">
