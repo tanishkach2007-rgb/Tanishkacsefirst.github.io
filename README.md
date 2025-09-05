@@ -35,8 +35,7 @@
     <p>Discover BMW classics, modern icons, and the future of electric cars.</p>
     <a href="https://www.bmw.in/en/all-models.html" class="btn">Explore Models</a>
   </section>
-
-</body>
+  
 </html>
 /* General Reset */
 * {
