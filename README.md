@@ -99,7 +99,7 @@ nav a:hover {
   font-size: 3rem;
 }
 
-.BMW I8 {https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stratstone.com%2Fblog%2F8-reasons-why-used-bmw-i8-is-a-supercar%2F%3Fsrsltid%3DAfmBOor8SxYA5JeZSQeXoau3WtvzJE9ccU0J7uXRqFpfr7v5iFjIfMfh&psig=AOvVaw1e2tcYWaBlyKhe4XcaIE-6&ust=1757139689556000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC6o9b9wI8DFQAAAAAdAAAAABAE
+.BMW SEDAN {BMW Sedan Range: Overview https://www.bmw.in/en/topics/bmw-sedan.html
   margin-top: 10px;
   font-size: 1.2rem;
 }
