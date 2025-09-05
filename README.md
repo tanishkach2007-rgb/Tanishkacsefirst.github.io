@@ -86,9 +86,10 @@ nav a:hover {
   color: #1e90ff;
 }
 
-/* M5 Section */
-.M5 {
-  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.carwale.com%2Fbmw-cars%2Fm5%2F&psig=AOvVaw2CfkhDVqM4g4bfKgf2jkyy&ust=1757139386338000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDKwrj8wI8DFQAAAAAdAAAAABAE') no-repeat center center/cover;
+/* ELECTRIC MODELS */
+.ELECTRIC {
+  background: url('<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/6645a8bb-dc76-493f-a6e4-2d3382a7b2d0" />
+') no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 100px 20px;
