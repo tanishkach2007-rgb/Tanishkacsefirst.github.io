@@ -69,7 +69,7 @@ header {
   align-items: center;
 }
 
-header .logo {
+header .logo {https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.starkinsider.com%2F2020%2F03%2Fnew-bmw-logo-stays-true-to-todays-design-language.html&psig=AOvVaw3mRwshKI_ha5FfFp4uuLgT&ust=1757139023216000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCehov7wI8DFQAAAAAdAAAAABAE
   height: 50px;
 }
 
