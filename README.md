@@ -106,12 +106,11 @@ nav a:hover {
 
 /* Content Sections */
 .content {
-  padding: 2rem;
-  text-align: center;
+  animation: fadeIn 2s ease-in;
 }
-
-.content h2 {
-  margin-bottom: 1rem;
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .btn {
@@ -129,10 +128,13 @@ nav a:hover {
 }
 
 /* Footer */
-footer {
-  background: #000;
-  color: white;
-  text-align: center;
-  padding: 1rem;
-  margin-top: 2rem;
+<footer>
+  <p>© 2025 BMW Website Project | Built with ❤️ by Tanishka Choudhary</p>
+  <a href="#">Instagram</a> | <a href="#">LinkedIn</a> | <a href="#">YouTube</a>
+</footer>
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    text-align: center;
+  }
 }
