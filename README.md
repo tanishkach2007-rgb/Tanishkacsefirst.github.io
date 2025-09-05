@@ -33,7 +33,7 @@
   <section class="content">
     <h2>Car Models</h2>
     <p>Discover BMW classics, modern icons, and the future of electric cars.</p>
-    <a href="models/modern.html" class="btn">Explore Models</a>
+    <a href="https://www.bmw.in/en/all-models.html" class="btn">Explore Models</a>
   </section>
 
   <!-- Footer -->
