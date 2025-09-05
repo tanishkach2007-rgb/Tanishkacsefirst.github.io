@@ -95,7 +95,7 @@ nav a:hover {
   padding: 100px 20px;
 }
 
-.BMW SUV {https://www.cardekho.com/new-bmw+suv+cars
+.BMW SUV {BMW X SUV Models & Pricing https://www.bmwusa.com/vehicles/x-models.html
   font-size: 3rem;
 }
 
