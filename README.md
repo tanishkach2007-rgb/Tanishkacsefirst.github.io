@@ -43,7 +43,6 @@
 </body>
 </html>
   
-
 /* General Reset */
 * {
   margin: 0;
